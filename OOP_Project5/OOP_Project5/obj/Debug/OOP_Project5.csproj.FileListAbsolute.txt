@@ -1,0 +1,7 @@
+D:\nam3\oop\Project_5\OOP_Project5\OOP_Project5\bin\Debug\OOP_Project5.exe.config
+D:\nam3\oop\Project_5\OOP_Project5\OOP_Project5\bin\Debug\OOP_Project5.exe
+D:\nam3\oop\Project_5\OOP_Project5\OOP_Project5\bin\Debug\OOP_Project5.pdb
+D:\nam3\oop\Project_5\OOP_Project5\OOP_Project5\obj\Debug\OOP_Project5.csprojAssemblyReference.cache
+D:\nam3\oop\Project_5\OOP_Project5\OOP_Project5\obj\Debug\OOP_Project5.csproj.CoreCompileInputs.cache
+D:\nam3\oop\Project_5\OOP_Project5\OOP_Project5\obj\Debug\OOP_Project5.exe
+D:\nam3\oop\Project_5\OOP_Project5\OOP_Project5\obj\Debug\OOP_Project5.pdb

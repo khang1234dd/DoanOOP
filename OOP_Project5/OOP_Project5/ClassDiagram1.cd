@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_Project5.Database">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="OOP_Project5.Database.KieuDatabase" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Database.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Delegate Name="OOP_Project5.Database.truyvanHandel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Database.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAEEAAAgAAAAAACACAAAAEAAIAEAMCg=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Project5.DoUong">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAEgEEAAAAgAAAAQBAABAAAgAAAABAAAAQAAAAQEgg=</HashCode>
+      <FileName>DoUong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Project5.DoUongBoSung">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>DoUongBoSung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Project5.DoUongCoGas">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>DoUongCoGas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Project5.DoUongPhaChe">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAAQAAA=</HashCode>
+      <FileName>DoUongPhaChe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Project5.Menu">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAABAABAACwACAAAAAAAAAQAAAAgAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Project5.NguyenLieu">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAAACAAAAAAABEAQAAAABAAABEQAAAAAAgg=</HashCode>
+      <FileName>NguyenLieu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Project5.NhanVien">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAABAAAAAEAAAAAEAABAAgAQAAAAAAAA=</HashCode>
+      <FileName>NhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Project5.Program">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Project5.QuanLyThuChi">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAIAAAAQABAAAAAAAAAAAAAAAAQAAAAAEAg=</HashCode>
+      <FileName>QuanLyThuChi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
